@@ -1,5 +1,5 @@
-# Machine-Learning
-Final Project
+## Machine-Learning 
+### Final Project
 
 #### 1. Introduction
 In the world of professional basketball, player statistics serve as a critical resource for evaluating performance, developing strategies, and making informed decisions. This project focuses on analyzing the statistical data of NBA players. With the evolution of the game, understanding how players performed during this era can provide valuable insights into the foundation of modern basketball.
